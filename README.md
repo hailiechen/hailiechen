@@ -1,8 +1,8 @@
 # Hi there!👋👋
 
-   \       I'm Hailie💞️      /
-    \     WELCOME TO MY     /
-     \    GITHUB WORLD!    /
+   \       I'm Hailie💞️      /  <br/>  
+    \     WELCOME TO MY     / <br/>  
+     \    GITHUB WORLD!    / 
 
 <!---
 hailiechen/hailiechen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
